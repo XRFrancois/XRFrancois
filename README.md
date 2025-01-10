@@ -3,12 +3,12 @@
   
   ## 🎓 Education
   
-  ### University of Luxembourg, Master in Information and Computer Science
+  ### 🏢 University of Luxembourg, Master in Information and Computer Science
   - Sept 2022 – Sept 2024
   - **Profile**: Reliable Software Systems
   - **Thesis**: In-Engine Machine Learning for Dynamic User Experience in Virtual Reality.
   
-  ### University of Luxembourg, Bachelor in Computer Science
+  ### 🏢 University of Luxembourg, Bachelor in Computer Science
   - Sept 2019 – Aug 2022
 
   ### 💬 Languages
